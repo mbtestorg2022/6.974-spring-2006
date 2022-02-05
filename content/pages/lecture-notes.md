@@ -4,12 +4,147 @@ title: Lecture Notes
 uid: d631939e-d6b9-259b-8709-5c1a36b10de6
 ---
 
-| LEC # | TOPICS | LECTURE NOTES |
-| --- | --- | --- |
-| 1 | Introduction | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter1)) |
-| 2-12 |  {{< br >}}{{< br >}} Maxwell's Equations of Isotropic Media (Review)  {{< br >}}  {{< br >}}Electromagnetic Waves and Interfaces I (Review)  {{< br >}}  {{< br >}}Electromagnetic Waves and Interfaces II  {{< br >}}  {{< br >}}Mirrors, Interferometers and Thin-Film Structures  {{< br >}}  {{< br >}}Gaussian Beams and Paraxial Wave Equation  {{< br >}}  {{< br >}}Ray Optics and Optical Systems  {{< br >}}  {{< br >}}Optical Resonators  {{< br >}}  {{< br >}}Integrated Optics: Waveguides  {{< br >}}  {{< br >}}Integrated Optics: Coupled Mode Theory  {{< br >}}  {{< br >}}Optical Fibers  {{< br >}}  {{< br >}}Anisotropic Media: Crystal Optics and Polarization {{< br >}}{{< br >}}  | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/chapter2)) |
-| 13 | Quantum Nature of Light and Matter | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter3)) |
-| 14-16 | Schrödinger Equation and Stationary States  {{< br >}}  {{< br >}}Harmonic Oscillator and Hydrogen Atom  {{< br >}}  {{< br >}}Wave Mechanics | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter4)) |
-| 17-19 | Dirac Formalism and Matrix Mechanics  {{< br >}}  {{< br >}}Harmonic Oscillator Revisited  {{< br >}}  {{< br >}}Coherent States | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter5)) |
-| 20-22 | Interaction of Light and Mater the Two-Level Atom: Rabi-Oscillations  {{< br >}}  {{< br >}}Density Matrix, Energy and Phase Relaxation  {{< br >}}  {{< br >}}Rate Equations, Dispersion, Absorption and Gain | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter6)) |
-| 23-26 | Optical Amplifiers and Lasers  {{< br >}}  {{< br >}}Homogenous and Inhomogenous Broadening and Related Effects  {{< br >}}  {{< br >}}Q-Switching and Mode Locking  {{< br >}}  {{< br >}}Electro- and Acousto-Optic Modulation | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter7))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURE NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Maxwell's Equations of Isotropic Media (Review)  
+  
+Electromagnetic Waves and Interfaces I (Review)  
+  
+Electromagnetic Waves and Interfaces II  
+  
+Mirrors, Interferometers and Thin-Film Structures  
+  
+Gaussian Beams and Paraxial Wave Equation  
+  
+Ray Optics and Optical Systems  
+  
+Optical Resonators  
+  
+Integrated Optics: Waveguides  
+  
+Integrated Optics: Coupled Mode Theory  
+  
+Optical Fibers  
+  
+Anisotropic Media: Crystal Optics and Polarization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/chapter2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Nature of Light and Matter
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-16
+{{< tdclose >}}
+{{< tdopen >}}
+Schrödinger Equation and Stationary States  
+  
+Harmonic Oscillator and Hydrogen Atom  
+  
+Wave Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17-19
+{{< tdclose >}}
+{{< tdopen >}}
+Dirac Formalism and Matrix Mechanics  
+  
+Harmonic Oscillator Revisited  
+  
+Coherent States
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20-22
+{{< tdclose >}}
+{{< tdopen >}}
+Interaction of Light and Mater the Two-Level Atom: Rabi-Oscillations  
+  
+Density Matrix, Energy and Phase Relaxation  
+  
+Rate Equations, Dispersion, Absorption and Gain
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23-26
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Amplifiers and Lasers  
+  
+Homogenous and Inhomogenous Broadening and Related Effects  
+  
+Q-Switching and Mode Locking  
+  
+Electro- and Acousto-Optic Modulation
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter7))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

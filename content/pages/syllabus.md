@@ -26,12 +26,69 @@ Grading Policy
 
 The grade will be decided based on the results of two quizzes and final exam. The homework will or will not count towards the final grade, depending on the option you choose at the beginning of classes. The table below gives the emphasis that will be given to homework, quizzes, and the final exam in determining the final grade. Note that once you have chosen one of these two options, you will not be allowed to change your mind afterward.
 
-| activities | percentages |
-| --- | --- |
-| &nbsp; | "Homework" Option | "No Homework" Option |
-| Homework | 20% | 0% |
-| Quizzes | 40% | 50% |
-| Final Exam | 40% | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+activities
+{{< thclose >}}
+{{< thopen >}}
+percentages
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+"Homework" Option
+{{< tdclose >}}
+{{< tdopen >}}
+"No Homework" Option
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+{{< tdopen >}}
+0%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Homework Policies
 -----------------
@@ -60,31 +117,351 @@ Quizzes and final exam will be closed book, i.e. no books, class notes, or other
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| lec # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Maxwell's Equations of Isotropic Media (Review) | Problem set 1 out |
-| 3 | Electromagnetic Waves and Interfaces I (Review) | &nbsp; |
-| 4 | Electromagnetic Waves and Interfaces II | Problem set 1 due  {{< br >}}  {{< br >}}Problem set 2 out |
-| 5 | Mirrors, Interferometers and Thin-Film Structures | Problem set 2 due  {{< br >}}  {{< br >}}Problem set 3 out |
-| 6 | Gaussian Beams and Paraxial Wave Equation | &nbsp; |
-| 7 | Ray Optics and Optical Systems | Problem set 3 due |
-| 8 | Optical Resonators | &nbsp; |
-| 9 | Integrated Optics: Waveguides | Quiz 1 week  {{< br >}}  {{< br >}}Problem set 4 out |
-| 10 | Integrated Optics: Coupled Mode Theory | &nbsp; |
-| 11 | Optical Fibers | Problem set 4 due  {{< br >}}  {{< br >}}Problem set 5 out |
-| 12 | Anisotropic Media: Crystal Optics and Polarization | &nbsp; |
-| 13 | Quantum Nature of Light and Matter | Problem set 5 due  {{< br >}}  {{< br >}}Problem set 6 out |
-| 14 | Schrödinger Equation and Stationary States | &nbsp; |
-| 15 | Harmonic Oscillator and Hydrogen Atom | Problem set 6 due  {{< br >}}  {{< br >}}Problem set 7 out |
-| 16 | Wave Mechanics | &nbsp; |
-| 17 | Dirac Formalism and Matrix Mechanics | Problem set 7 due |
-| 18 | Harmonic Oscillator Revisited | Quiz 2 week  {{< br >}}  {{< br >}}Problem set 8 out |
-| 19 | Coherent States | &nbsp; |
-| 20 | Interaction of Light and Mater the Two-Level Atom: Rabi-Oscillations | Problem set 8 due  {{< br >}}  {{< br >}}Problem set 9 out |
-| 21 | Density Matrix, Energy and Phase Relaxation | &nbsp; |
-| 22 | Rate Equations, Dispersion, Absorption and Gain | Problem set 9 due  {{< br >}}  {{< br >}}Problem set 10 out |
-| 23 | Optical Amplifiers and Lasers | &nbsp; |
-| 24 | Homogenous and Inhomogenous Broadening and Related Effects | Problem set 10 due |
-| 25 | Q-Switching and Mode Locking | &nbsp; |
-| 26 | Electro- and Acousto-Optic Modulation |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+lec #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Maxwell's Equations of Isotropic Media (Review)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Waves and Interfaces I (Review)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Electromagnetic Waves and Interfaces II
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due  
+  
+Problem set 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Mirrors, Interferometers and Thin-Film Structures
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due  
+  
+Problem set 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Gaussian Beams and Paraxial Wave Equation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Ray Optics and Optical Systems
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Resonators
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Integrated Optics: Waveguides
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1 week  
+  
+Problem set 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Integrated Optics: Coupled Mode Theory
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Fibers
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 4 due  
+  
+Problem set 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Anisotropic Media: Crystal Optics and Polarization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Quantum Nature of Light and Matter
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due  
+  
+Problem set 6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Schrödinger Equation and Stationary States
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Harmonic Oscillator and Hydrogen Atom
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due  
+  
+Problem set 7 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Wave Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Dirac Formalism and Matrix Mechanics
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Harmonic Oscillator Revisited
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2 week  
+  
+Problem set 8 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Coherent States
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Interaction of Light and Mater the Two-Level Atom: Rabi-Oscillations
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due  
+  
+Problem set 9 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Density Matrix, Energy and Phase Relaxation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Rate Equations, Dispersion, Absorption and Gain
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 due  
+  
+Problem set 10 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Amplifiers and Lasers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Homogenous and Inhomogenous Broadening and Related Effects
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Q-Switching and Mode Locking
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Electro- and Acousto-Optic Modulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
