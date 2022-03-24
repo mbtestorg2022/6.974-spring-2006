@@ -28,7 +28,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter1))
+([PDF]({{< baseurl >}}/resources/chapter1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +64,7 @@ Anisotropic Media: Crystal Optics and Polarization
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.5 MB]({{< baseurl >}}/resources/chapter2))
+([PDF - 2.5 MB]({{< baseurl >}}/resources/chapter2))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ Anisotropic Media: Crystal Optics and Polarization
 Quantum Nature of Light and Matter
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter3))
+([PDF]({{< baseurl >}}/resources/chapter3))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ Harmonic Oscillator and Hydrogen Atom
 Wave Mechanics
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter4))
+([PDF]({{< baseurl >}}/resources/chapter4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +108,7 @@ Harmonic Oscillator Revisited
 Coherent States
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter5))
+([PDF]({{< baseurl >}}/resources/chapter5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Density Matrix, Energy and Phase Relaxation
 Rate Equations, Dispersion, Absorption and Gain
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter6))
+([PDF]({{< baseurl >}}/resources/chapter6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +142,7 @@ Q-Switching and Mode Locking
 Electro- and Acousto-Optic Modulation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chapter7))
+([PDF]({{< baseurl >}}/resources/chapter7))
 {{< tdclose >}}
 
 {{< trclose >}}
