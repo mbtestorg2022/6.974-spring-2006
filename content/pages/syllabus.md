@@ -14,7 +14,7 @@ Lectures: 2 sessions / week, 1.5 hours / session
 Prerequisites
 -------------
 
-[6.003](/courses/6-003-signals-and-systems-fall-2011/), [6.013](/courses/6-013-electromagnetics-and-applications-fall-2005) or [8.07](/courses/8-07-electromagnetism-ii-fall-2012).
+[6.003](/courses/6-003-signals-and-systems-fall-2011), [6.013](/courses/6-013-electromagnetics-and-applications-fall-2005) or [8.07](/courses/8-07-electromagnetism-ii-fall-2012).
 
 Requirements
 ------------
